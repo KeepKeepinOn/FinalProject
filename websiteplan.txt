@@ -1,28 +1,30 @@
 /*A sopranos funniest scenes website divided into the main characters funniest scenes as chosen by me*/
 
-<title>Sopranos Comedy Gold</title> /*all pages*/
 
-Home Page index.html
+<title>Sopranos Comedy Gold</title> 
 
-H1 heading SOPRANOS COMEDY GOLD
+index.html /*my home page*/
+
+H1 SOPRANOS COMEDY GOLD
 
 body
 
-nav bar with links to each character's 2 funniest scenes /*height 100%; width 15%;*/
+nav bar with links to each character's 2 funniest scenes. Users can navigate between pages by character or page number. /*height 100%; width 18%;*/
 
 main
-2x2 grid with row headers and ids that the nav can link to.  /*linking between pages might be a challenge for me. I'll figure it out somehow.*/
+2x2 grid with row headers and ids that the nav can link to. Row headers will be the 6 character names. /*linking between pages might be a challenge for me. I'll figure it out somehow.*/
 
  
   Junior-  video1  video2 /*all vids 300 px*/
   Tony-    video1  video2
 main
 
-Footer with my github profile
+Footer with my Github profile
 
 
 
 
+<title>Sopranos Comedy Gold 2</title>
 page2.html
 
 h1 SOPRANOS COMEDY GOLD
@@ -38,11 +40,12 @@ main
   Ralph-  video1 video2
 main
 
-Footer with github
+Footer with my Github profile
 
 
 
 
+<title>Sopranos Comedy Gold 3</title>
 page3.html
 
 h1 SOPRANOS COMEDY GOLD
@@ -58,12 +61,12 @@ main
   Christopher- video1 video2
 main
 
-Footer with Github
+Footer with my Github profile
 
 
 
 
-/*additional css responsive stuff for mobile*/
+/*additional css responsive stuff for mobile, removes sidebar on smaller screens*/
   @media (max width: 768px) {
      .side-bar {
        display:none;
@@ -72,12 +75,16 @@ Footer with Github
 
 
 
-/*color scheme will be black body with red text, sidebar will the reverse(hopefully)*/
+/*color scheme will be black body with white text, will include red somewhere, sidebar will be the reverse*/
 
 
-/*project will be checked for accessibility, contrast, etc...*/
+/*project will be checked for accessibility, contrast errors etc using W3C vaidation services*/
+/*project folder will include index.html, page2.html, page3.html and styles.css*/
+/*if I add any images I will add descriptive alt text but currently i am not planning on it, as I may be out over my skis already*/
 
-P.S. I know I didn't need to use these things /* */ I just thought it looked more serious.
+
+
+P.S. I know I didn't need to use these things /* */ I just thought it looked like expert level.
 
 
 
