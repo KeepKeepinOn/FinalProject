@@ -18,6 +18,7 @@ main
   Junior-  video1  video2 /*all vids 300 px*/
   Tony-    video1  video2
 main
+/body
 
 Footer with my Github profile
 
@@ -39,6 +40,7 @@ main
   Paulie- video1 video2
   Ralph-  video1 video2
 main
+/body
 
 Footer with my Github profile
 
@@ -60,6 +62,7 @@ main
   Olivia(mom)- video1 video2
   Christopher- video1 video2
 main
+/body
 
 Footer with my Github profile
 
