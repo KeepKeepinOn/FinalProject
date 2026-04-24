@@ -1,0 +1,100 @@
+/*A sopranos funniest scenes website divided into the main characters funniest scenes as chosen by me*/
+
+<title>Sopranos Comedy Gold</title> /*all pages*/
+
+Home Page index.html
+
+H1 heading SOPRANOS COMEDY GOLD
+
+body
+
+nav bar with links to each character's 2 funniest scenes /*height 100%; width 15%;*/
+
+main
+2x2 grid with row headers and ids that the nav can link to.  /*linking between pages might be a challenge for me. I'll figure it out somehow.*/
+
+ 
+  Junior-  video1  video2 /*all vids 300 px*/
+  Tony-    video1  video2
+main
+
+Footer with my github profile
+
+
+
+
+page2.html
+
+h1 SOPRANOS COMEDY GOLD
+
+body
+
+nav bar with links to each character's row
+
+main
+2x2 grid with row headers and ids for the nav to grab. 
+
+  Paulie- video1 video2
+  Ralph-  video1 video2
+main
+
+Footer with github
+
+
+
+
+page3.html
+
+h1 SOPRANOS COMEDY GOLD
+
+body
+
+nav bar with links to each character's row
+
+main
+2x2 grid with row headers and ids for the nav bar to grab
+
+  Olivia(mom)- video1 video2
+  Christopher- video1 video2
+main
+
+Footer with Github
+
+
+
+
+/*additional css responsive stuff for mobile*/
+  @media (max width: 768px) {
+     .side-bar {
+       display:none;
+    }
+   }
+
+
+
+/*color scheme will be black body with red text, sidebar will the reverse(hopefully)*/
+
+
+/*project will be checked for accessibility, contrast, etc...*/
+
+P.S. I know I didn't need to use these things /* */ I just thought it looked more serious.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
