@@ -30,6 +30,12 @@
      H. AI page will include a video called "The Truth About Starting Web Design In The Age Of AI". I'll use an article called "AI and Web Deveopment". I'll
         also describe both.
 
+3. Same as 2.
+
+4. At the bottom of each page will be a navigation area where users can choose their next page.
+
+5.
+
         
      
         
