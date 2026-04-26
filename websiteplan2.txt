@@ -20,6 +20,17 @@
 
      E. Accessibility page will be a video called "Accessible Web Design: What it is and How to Do It" and an article called "Accessibility in Web Design". 
         Descriptions of both will be included.
+
+     F. The Ethical Web Development page will have a video called "On the Ethics of Web Development, a talk by Jan Michael Low" and an article called
+        "Top Considerations for Ethical Web Design". Both wil be described.
+
+     G. My Validation page will include a video called "HTML and CSS (part 12): Validate CSS using the W3C CSS Validation Service". I will use an article
+        called "Streamlining Your Code: Top Online HTML Validators for Web Developers". I will include some text about both.
+
+     H. AI page will include a video called "The Truth About Starting Web Design In The Age Of AI". I'll use an article called "AI and Web Deveopment". I'll
+        also describe both.
+
+        
      
         
 
