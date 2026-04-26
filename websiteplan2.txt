@@ -10,31 +10,31 @@
     H. Artificial Intelligence           page8.html
 
 2. The content on my pages will be:
-     A. FP Homepage- The Homepage will include a video and article about general web development. It will also include a navigation area at the bottom of the             page and link to my Github profile. The navigation area wil be to travel to any page and it will be at the bottom of every page.
+     A. FP Homepage- The Homepage will include a video and article about general web development. It will also include a navigation area at the bottom of the page and link to my Github profile. The navigation area wil be to travel to any page and it will be at the bottom of every page.
 
-     B. Code Editor page will include some text about VScode (it's microsoft product etc...). Also a youtube video called "the only VScode video you will ever            need". I will also use a link to an article called "VSCode Tips and Tricks for Beginners".
+     B. Code Editor page will include some text about VScode (it's microsoft product etc...). Also a youtube video called "the only VScode video you will ever need". I will also use a link to an article called "VSCode Tips and Tricks for Beginners".
 
-     C. Semantic Elements page will be some text the content. Also a video called "Explained in 4 minutes: Semantic Elements" and a link to an article                    called "Semantic HTML5 Elements Explained".
+     C. Semantic Elements page will be some text the content. Also a video called "Explained in 4 minutes: Semantic Elements" and a link to an article called "Semantic HTML5 Elements Explained".
 
-     D. CSS Layout and Responsiveness page will include a video called "How to make your Website Responsive" and an article called "Introduction to Responsive            Web Design" I will briefly describe both.
+     D. CSS Layout and Responsiveness page will include a video called "How to make your Website Responsive" and an article called "Introduction to Responsive Web Design" I will briefly describe both.
 
-     E. Accessibility page will be a video called "Accessible Web Design: What it is and How to Do It" and an article called "Accessibility in Web Design". 
-        Descriptions of both will be included.
+     E. Accessibility page will be a video called "Accessible Web Design: What it is and How to Do It" and an article called "Accessibility in Web Design". Descriptions of both will be included.
 
-     F. The Ethical Web Development page will have a video called "On the Ethics of Web Development, a talk by Jan Michael Low" and an article called
-        "Top Considerations for Ethical Web Design". Both wil be described.
+     F. The Ethical Web Development page will have a video called "On the Ethics of Web Development, a talk by Jan Michael Low" and an article called "Top Considerations for Ethical Web Design". Both wil be described.
 
-     G. My Validation page will include a video called "HTML and CSS (part 12): Validate CSS using the W3C CSS Validation Service". I will use an article
-        called "Streamlining Your Code: Top Online HTML Validators for Web Developers". I will include some text about both.
+     G. My Validation page will include a video called "HTML and CSS (part 12): Validate CSS using the W3C CSS Validation Service". I will use an article called "Streamlining Your Code: Top Online HTML Validators for Web Developers". I will include some text about both.
 
-     H. AI page will include a video called "The Truth About Starting Web Design In The Age Of AI". I'll use an article called "AI and Web Deveopment". I'll
-        also describe both.
+     H. AI page will include a video called "The Truth About Starting Web Design In The Age Of AI". I'll use an article called "AI and Web Deveopment". I'll also describe both.
 
-3. Same as 2.
+3. This info is included in 2.
 
-4. At the bottom of each page will be a navigation area where users can choose their next page.
+4. At the bottom of each page will be a navigation area where users can choose their next page. On my homepage will be a footer that links to my GitHub profile.
 
-5.
+5. I will have H1, H2, and H3 on each page and I will use white page with black text for contrast reasons.
+
+6. My project folder will include index.html, styles.css, page2.html, page3.html, page4.html, page5.html, page6.html, page7.html
+
+7. I will validate every page before I submit using the W3 services.
 
         
      
