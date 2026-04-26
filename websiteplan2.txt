@@ -1,1 +1,26 @@
+1. The pages for my site are as follows:
+          Title                            File
+    A. Final Project Homepage            index.html
+    B. Code Editor                       page2.html
+    C. Semantic Elements                 page3.html
+    D. CSS Layout and Responsiveness     page4.html
+    E. Accessibility                     page5.html
+    F. Ethical Web Development           page6.html
+    G. Validation for HTML and CSS       page7.html
+    H. Artificial Intelligence           page8.html
+
+2. The content on my pages will be:
+     A. FP Homepage- The Homepage will include a video and article about general web development. It will also include a navigation area at the bottom of the             page and link to my Github profile. The navigation area wil be to travel to any page and it will be at the bottom of every page.
+
+     B. Code Editor page will include some text about VScode (it's microsoft product etc...). Also a youtube video called "the only VScode video you will ever            need". I will also use a link to an article called "VSCode Tips and Tricks for Beginners".
+
+     C. Semantic Elements page will be some text the content. Also a video called "Explained in 4 minutes: Semantic Elements" and a link to an article                    called "Semantic HTML5 Elements Explained".
+
+     D. CSS Layout and Responsiveness page will include a video called "How to make your Website Responsive" and an article called "Introduction to Responsive            Web Design" I will briefly describe both.
+
+     E. Accessibility page will be a video called "Accessible Web Design: What it is and How to Do It" and an article called "Accessibility in Web Design". 
+        Descriptions of both will be included.
+     
+        
+
 
